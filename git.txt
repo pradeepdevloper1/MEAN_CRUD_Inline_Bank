@@ -1,0 +1,6 @@
+echo "# MEAN_CRUD_Inline_Bank" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin15 https://github.com/pradeepdevloper1/MEAN_CRUD_Inline_Bank.git
+git push -u origin15 master
